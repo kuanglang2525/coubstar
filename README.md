@@ -1,0 +1,2 @@
+# coubstar
+star.yes on
